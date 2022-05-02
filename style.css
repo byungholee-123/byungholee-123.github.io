@@ -15,12 +15,12 @@ html {
 }
 
 body {
-     color: white;
+     color: black;
      font-size: 18px;
      font-family:'Times New Roman', Times, serif;
      line-height: 1.80857;
      font-weight: normal;
-     background: #305EA8;
+     background: white;
      max-width:800px;
      max-height:80px;
      margin-left:2em;
@@ -81,7 +81,7 @@ p {
 }
 
 a {
-     color: yellow;
+     color: blue;
      text-decoration: underline;
      outline: none !important;
 }
