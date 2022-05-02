@@ -20,7 +20,7 @@ body {
      font-family:'Times New Roman', Times, serif;
      line-height: 1.80857;
      font-weight: normal;
-     background: #2B65C2;
+     background: #305EA8;
      max-width:800px;
      max-height:80px;
      margin-left:2em;
@@ -81,7 +81,7 @@ p {
 }
 
 a {
-     color: orange;
+     color: yellow;
      text-decoration: underline;
      outline: none !important;
 }
