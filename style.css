@@ -5,7 +5,7 @@
 
 
 @font-face {
-font-family:  "Georgia"
+font-family:  "EB Garamond"
 }
 
 
@@ -17,7 +17,7 @@ html {
 body {
      color: white;
      font-size: 24px;
-     font-family: Georgia, Times New Roman, Arial;
+     font-family: EB Garamond, Georgia, Times New Roman, Arial;
      line-height: 1.80857;
      font-weight: normal;
      background: #2F3139;
