@@ -15,15 +15,13 @@ html {
 }
 
 body {
-     color: white;
+     color: black;
      font-size: 24px;
      font-family:  Times New Roman, Garamond, Arial;
      line-height: 1.80857;
      font-weight: normal;
-     background: #2F3139;
-     max-width:800px;
-     max-height:80px;
-     margin-left:2em;
+     background: white;
+     margin-left:1em;
      margin-right:auto;
      margin-top:2em;
 }
@@ -81,7 +79,7 @@ p {
 }
 
 a {
-     color: white;
+     color: green;
      text-decoration: underline;
      outline: none !important;
 }
